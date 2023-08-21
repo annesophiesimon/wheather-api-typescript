@@ -1,15 +1,6 @@
-This repository is using ReactJS, TypeScript and TailwindCSS. It also runs on node 18 (see .nvmrc) and has a formatter - prettier. If you're running this for the first time - please ensure you have nvm (node version manager).
+## WHEATHER API TYPESCRIPT 
 
-## How To Run
+<img width="695" alt="Screen Shot 2023-08-21 at 10 55 37 AM" src="https://github.com/annesophiesimon/wheather-api-typescript/assets/9214700/61b5bc42-aa1e-4105-8d21-54174807ad2e">
 
-If you don't have nvm installed, run the following command:
-`curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash`
-After you got nvm installed on your machine, run `nvm i` and then `nvm use` (to have the correct nodeJs version)
+<img width="629" alt="Screen Shot 2023-08-21 at 10 55 07 AM" src="https://github.com/annesophiesimon/wheather-api-typescript/assets/9214700/942a8185-9dd9-418d-8b21-cf17b0b4b5c1">
 
-Once you have the correct node version, run `npm i` to get all the required dependencies installed
-
-After everything is installed, run `npm run start` and navigate to http://localhost:3000
-
-## API Calls
-
-Please Note: The OpenWeather API is using an API Key. In the repository you fill find a `.env.example` file which you need to copy/save as `.env` and paste the value of your API key (which you can get when you register on the OpenWeather API website).
